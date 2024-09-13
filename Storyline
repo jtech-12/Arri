@@ -1,0 +1,15 @@
+<section id="profile">
+    <h1>Julian's Profile</h1>
+    <!-- Image hosted on GitHub -->
+    <img src="https://github.com/username/repository-name/blob/main/profile-pic.jpg" alt="Julian's profile picture">
+    <p>Major: Information Technology</p>
+</section> 
+
+<section id="education">
+    <h2>Education</h2>
+    <p>I am currently pursuing a degree in Information Technology.</p>
+    <ul>
+        <li>High School Diploma</li>
+        <li>Information Technology Major</li>
+    </ul>
+</section>
