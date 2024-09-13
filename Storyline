@@ -13,3 +13,38 @@
         <li>Information Technology Major</li>
     </ul>
 </section>
+
+
+<section id="work-experience">
+    <h2>Work Experience/Internships</h2>
+    <ul>
+        <li>Intern at KPMG Company</li>
+        <li>Worked on a Java-based calorie tracker project</li>
+    </ul>
+</section>
+
+<section id="programming-skills">
+    <h2>Programming Skills</h2>
+    <ul>
+        <li>Java - Intermediate</li>
+        <li>Python - Beginner</li>
+        <li>HTML/CSS - Intermediate</li>
+    </ul>
+</section>
+
+
+<section id="interests">
+    <h2>General Interests</h2>
+    <p>I enjoy creating art, spending time with friends, and exploring new places.</p>
+</section>
+
+
+<nav>
+    <ul>
+        <li><a href="#profile">Profile</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#work-experience">Work Experience</a></li>
+        <li><a href="#programming-skills">Programming Skills</a></li>
+        <li><a href="#interests">General Interests</a></li>
+    </ul>
+</nav>
